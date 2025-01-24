@@ -64,3 +64,11 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+## NOTE: 
+
+### ZKsync's Founddry is fork from the vanilla foundry.
+
+If you want to leaern about deployment on zksync, please refer to the following link:
+
+https://foundry-book.zksync.io/
