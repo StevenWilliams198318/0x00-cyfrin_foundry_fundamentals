@@ -67,7 +67,7 @@ $ cast --help
 
 ## NOTE: 
 
-### ZKsync's Founddry is fork from the vanilla foundry.
+### ZKsync's Foundry is fork from the vanilla foundry.
 
 If you want to leaern about deployment on zksync, please refer to the following link:
 
